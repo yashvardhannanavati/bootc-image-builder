@@ -19,6 +19,7 @@ Waiting for VM to exit...
 Machine "podman-machine-default" stopped successfully
 $ podman machine set --rootful
 $ podman machine start
+
 ```
 
 ## 🚀 Examples
